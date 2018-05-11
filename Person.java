@@ -1,3 +1,3 @@
 class Person{
-	int age = 10;
+	String age = 10;
 }
